@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/oromis995/oromis995.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+It's still a work in progress, but hopefully soon there will be a website here. 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
